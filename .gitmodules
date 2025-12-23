@@ -5,6 +5,9 @@
 [submodule "blackmarbler"]
 	path = blackmarbler
 	url = https://github.com/worldbank/blackmarbler
+[submodule "pipr"]
+	path = pipr
+	url = https://github.com/worldbank/pipr
 [submodule "rsocialwatcher"]
 	path = rsocialwatcher
 	url = https://github.com/worldbank/rsocialwatcher
